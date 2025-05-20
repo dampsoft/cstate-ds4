@@ -9,7 +9,7 @@ resolved: false
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
-#  - DS4 Cloud
+#  - DS4-Cloud
 #  - e-connect 2.0
 #  - e-connect 1.0
 #  - Online-Terminvergabe (OTV)
