@@ -163,7 +163,7 @@ params:
       category: DS4-Cloud
     - name: e-connect 2.0
       category: DS4-Cloud
-    - name: "e-connect 1.0"
+    - name: e-connect 1.0
       category: DS4-Cloud
     - name: Online-Terminvergabe (OTV)
       category: Produkterweiterungen
