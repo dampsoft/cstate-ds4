@@ -43,7 +43,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: Dampsoft DS4 Status
+title: Dampsoft DS4-Status
 
 # Should posts, which have a publish date
 # from the future, be built? Useful for
@@ -163,7 +163,7 @@ params:
       category: DS4-Cloud
     - name: e-connect 2.0
       category: DS4-Cloud
-    - name: e-connect 1.0
+    - name: "e-connect 1.0"
       category: DS4-Cloud
     - name: Online-Terminvergabe (OTV)
       category: Produkterweiterungen
@@ -353,7 +353,7 @@ params:
   #
   # Default: `false`
   # BOOLEAN; `true`, `false`
-  disableComplexCalculations: false
+  disableComplexCalculations: true
 
   # Incident posts shown on homepage
   #
