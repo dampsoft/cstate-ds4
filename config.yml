@@ -170,7 +170,7 @@ params:
     - name: SMS-Service
       category: Produkterweiterungen
     - name: DS4-Updates
-      description: Stellt Updates für das DS4 bereit.
+      description: Stellt Updates für DS4 bereit.
       category: Services
     - name: DS4-Lizenz
       category: Services
