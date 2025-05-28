@@ -481,3 +481,11 @@ outputFormats:
   svg:
     isPlainText: true
     mediaType: image/svg+xml
+
+
+######################
+### Custom Changes ###
+######################
+
+# Prvent capitalization of tiltes
+titleCaseStyle: none
