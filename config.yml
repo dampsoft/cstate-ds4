@@ -178,6 +178,8 @@ params:
       category: Services
     - name: DS4-Feedback
       category: Services
+    - name: Controlling-Cockpit
+      category: Services
 #    - name: Website
 #      description: The web frontend for the application.
 #      category: Uncategorized
