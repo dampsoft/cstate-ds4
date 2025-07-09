@@ -20,6 +20,7 @@ affected:
 #  - DS4-Lizenz
 #  - DS4-Fehlerberichte
 #  - DS4-Feedback
+#  - Controlling-Cockpit
 section: issue
 ---
 
