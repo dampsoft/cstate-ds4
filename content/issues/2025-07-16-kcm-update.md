@@ -5,8 +5,8 @@
 title: Wartungsarbeiten KIM Clientmodul (KCM) für e-connect 2.0
 date: 2025-07-16 18:00:00
 
-resolved: false ## einkommentieren, wenn Announcement zu einem Issue umgestellt werden soll
-# resolvedWhen: 2025-06-16 16:58:00
+resolved: true ## einkommentieren, wenn Announcement zu einem Issue umgestellt werden soll
+ resolvedWhen: 2025-07-16 18:45:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
 
