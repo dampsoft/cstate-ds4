@@ -2,8 +2,8 @@
 # Dateiname: <jahr>-<monat>-<tag>-<kurzbeschreibung>
 # siehe auch https://github.com/cstate/cstate/wiki/Usage#creating-incidents-method-1
 
-title: Geplante Wartungsarbeiten DS4-Cloud
-date: 2025-09-06 00:00:00
+title: Geplante Wartungsarbeiten DS4-Cloud (verschoben)
+date: 2025-09-13 00:00:00
 
 pin: true ## entfernen, wenn das Announcement durch ist
 informational: true ## entfernen, wenn das Announcement zu einem Issue umgestellt werden soll
@@ -26,5 +26,5 @@ affected:
 section: issue
 ---
 
-Im Zeitraum 06.09.2025 00:00 Uhr bis 07.09.2025 23:59 Uhr führen wir geplante Wartungsarbeiten an DS4-Cloud durch.
+Im Zeitraum 13.09.2025 00:00 Uhr bis 14.09.2025 23:59 Uhr führen wir geplante Wartungsarbeiten an DS4-Cloud durch.
 In der Zeit kann es zu Unterbrechungen der Verfügbarkeit von DS4-Cloud kommen.
