@@ -6,8 +6,7 @@ title: Geplante Wartungsarbeiten DS4-Cloud (verschoben)
 date: 2025-09-13 00:00:00
 
 pin: true ## entfernen, wenn das Announcement durch ist
-informational: true ## entfernen, wenn das Announcement zu einem Issue umgestellt werden soll
-# resolved: false ## einkommentieren, wenn Announcement zu einem Issue umgestellt werden soll
+resolved: false ## einkommentieren, wenn Announcement zu einem Issue umgestellt werden soll
 # resolvedWhen: 2025-06-16 16:58:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
