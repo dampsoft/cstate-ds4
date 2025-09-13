@@ -3,11 +3,10 @@
 # siehe auch https://github.com/cstate/cstate/wiki/Usage#creating-incidents-method-1
 
 title: Geplante Wartungsarbeiten DS4-Cloud (verschoben)
-date: 2025-09-13 00:00:00
+date: 2025-09-13 08:00:00
 
-pin: true ## entfernen, wenn das Announcement durch ist
-resolved: false ## einkommentieren, wenn Announcement zu einem Issue umgestellt werden soll
-# resolvedWhen: 2025-06-16 16:58:00
+resolved: true ## einkommentieren, wenn Announcement zu einem Issue umgestellt werden soll
+resolvedWhen: 2025-09-13 12:17:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
 
