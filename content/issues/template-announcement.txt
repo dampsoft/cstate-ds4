@@ -15,7 +15,6 @@ severity: notice
 affected:
 #  - DS4-Cloud
 #  - e-connect 2.0
-#  - e-connect 1.0
 #  - Online-Terminvergabe (OTV)
 #  - SMS-Service
 #  - DS4-Updates
