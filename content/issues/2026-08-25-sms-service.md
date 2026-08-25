@@ -2,11 +2,8 @@
 title: SMS-Service - Migration in neuen Cluster
 date: 2026-08-25 10:00:00
 
-pin: true ## entfernen, wenn das Announcement durch ist
-informational: true ## entfernen, wenn das Announcement zu einem Issue umgestellt werden soll
-# resolved: false ## einkommentieren, wenn Announcement zu einem Issue umgestellt werden soll
-# resolvedWhen: 2026-08-25 10:30:00
-# Possible severity levels: down, disrupted, notice
+resolved: true
+resolvedWhen: 2026-08-25 11:00:00
 severity: notice
 
 affected:
