@@ -5,7 +5,7 @@ date: 2026-09-19 00:00:00
 pin: true ## entfernen, wenn das Announcement durch ist
 informational: true ## entfernen, wenn das Announcement zu einem Issue umgestellt werden soll
 # resolved: false ## einkommentieren, wenn Announcement zu einem Issue umgestellt werden soll
-# resolvedWhen: 2026-06-16 16:00:00
+# resolvedWhen: 2026-09-20 23:59:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
 
@@ -22,5 +22,5 @@ affected:
 section: issue
 ---
 
-Im Zeitraum 19.09.2025 00:00 Uhr bis 19.09.2025 23:59 Uhr führen wir geplante Wartungsarbeiten an DS4-Cloud durch.
+Im Zeitraum 19.09.2026 00:01 Uhr bis 20.09.2026 23:59 Uhr führen wir geplante Wartungsarbeiten an DS4-Cloud durch.
 In der Zeit kann es zu Unterbrechungen der Verfügbarkeit von DS4-Cloud kommen.
