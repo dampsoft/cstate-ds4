@@ -2,10 +2,9 @@
 title: Geplante Wartungsarbeiten OTV
 date: 2026-09-17 10:00:00
 
-pin: true ## entfernen, wenn das Announcement durch ist
 informational: true ## entfernen, wenn das Announcement zu einem Issue umgestellt werden soll
-# resolved: false ## einkommentieren, wenn Announcement zu einem Issue umgestellt werden soll
-# resolvedWhen: 2026-09-17 11:00:00
+resolved: true ## einkommentieren, wenn Announcement zu einem Issue umgestellt werden soll
+resolvedWhen: 2026-09-17 10:52:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
 
