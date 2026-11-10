@@ -64,7 +64,7 @@ buildFuture: true
 #
 # See:  https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 # Also: https://www.w3schools.com/tags/ref_language_codes.asp
-languageCode: de
+locale: de
 
 # What translation file should cState use?
 # You can also define whether missing
@@ -110,7 +110,6 @@ baseURL: https://status.ds4.dampsoft.de
 # We recommend to keep this at `true`.
 # BOOLEAN; `true`, `false`
 enableGitInfo: true
-
 
 ############################################################
 # +------------------------------------------------------+ #
@@ -178,17 +177,17 @@ params:
       category: Services
     - name: Controlling-Cockpit
       category: Services
-#    - name: Website
-#      description: The web frontend for the application.
-#      category: Uncategorized
-#      histogram: false # explicitly disable histogram for this system
-#      link: https://example.com/
-#    - name: API
-#      description: The guts of the application.
-#      category: Uncategorized
-#    - name: Media Proxy
-#      description: This is the *service* responsible for serving images, audio, and video. It is reliant on our CDN.
-#      category: Uncategorized
+  #    - name: Website
+  #      description: The web frontend for the application.
+  #      category: Uncategorized
+  #      histogram: false # explicitly disable histogram for this system
+  #      link: https://example.com/
+  #    - name: API
+  #      description: The guts of the application.
+  #      category: Uncategorized
+  #    - name: Media Proxy
+  #      description: This is the *service* responsible for serving images, audio, and video. It is reliant on our CDN.
+  #      category: Uncategorized
 
   # Want to enable the uptime histogram?
   # Set this to `false` for any system you want to disable.
@@ -447,7 +446,6 @@ params:
   # Default: UA-00000000-1
   googleAnalytics: UA-00000000-1
 
-
 # These options affect the core of cState.
 # Please do not change them if you do not
 # know what you are doing.
@@ -481,7 +479,6 @@ outputFormats:
   svg:
     isPlainText: true
     mediaType: image/svg+xml
-
 
 ######################
 ### Custom Changes ###
